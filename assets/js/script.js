@@ -215,3 +215,5 @@ var generateBtn = document.querySelector("#generate");
 
 // Add event listener to generate button - triggers the writePassword function to activate
 generateBtn.addEventListener("click", writePassword);
+
+//My code is really close to being done. In the console it creates the approipate code that meets the criteria, but in the textarea it produces the first password generated, even if it is incorrect.
